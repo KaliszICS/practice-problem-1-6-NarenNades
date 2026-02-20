@@ -1,6 +1,10 @@
-import static org.junit.jupiter.api.Assertions.*;
-import org.junit.jupiter.api.*;
-import java.io.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+
+import org.junit.jupiter.api.Test;
 
 public class PracticeProblemTest {
 
